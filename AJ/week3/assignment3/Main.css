@@ -1,0 +1,97 @@
+a:link 
+{
+	color: #FF0000; 
+}  
+
+a:visited
+{
+	color: blue; 
+} 
+
+a:hover
+{ 
+	color: gold; 
+} 
+
+body
+{
+    background-color: lemonchiffon;
+}
+
+h1,h4,h5
+{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: bolder;
+    font-style: normal;
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img
+{
+    
+    width: 100%;
+}
+
+#aroipic1
+{
+    text-align: center;
+    
+}
+
+#aroipic2
+{
+    border-radius: 60px;
+    vertical-align: middle;
+    width: 30%; 
+}
+
+#ingredientspic1
+{
+    text-align: center;
+    
+}
+
+#ingredientspic2
+{
+    
+    border-radius: 60px;
+    vertical-align: middle;
+    width: 30%; 
+}
+
+ul{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    font-weight: normal;
+    font-style: normal;
+}
+span
+{
+    background-color: lightsalmon;
+}
+.picdoit
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+}
+.picdoit > div
+{
+    border: 2px solid saddlebrown;
+    width: 300px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+}
+#pic3
+{
+    width: 200px;
+    height: max-content;
+}

@@ -1,0 +1,24 @@
+h1{
+    background-color: white;
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
+    
+    
+}
+img{
+    width: 50%;
+
+}
+div{
+    text-align: center;
+}
+body{
+    background-color: coral;
+}
+hr{
+    width: 60%;
+    height: 3px;
+    background-color: black;
+}
