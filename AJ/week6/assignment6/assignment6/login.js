@@ -24,11 +24,13 @@ function checkLogin()
 		else
 		{
 			alert ("Wrong password");
+			return false;
 		}	
 	}
 	else
 	{
 		alert ("no user")
+		return false;
 	}
 }
 

@@ -11,7 +11,7 @@ function validateForm() {
 
     if (password.value != repassword.value)
     {
-        document.getElementById("errormsg").innerHTML = "password not recognised";
+        document.getElementById("errormsg").innerHTML = "password ไม่ตรงกัน";
         return false;
     }
 

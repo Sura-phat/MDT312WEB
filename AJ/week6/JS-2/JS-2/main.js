@@ -121,17 +121,17 @@
 // window.onload = pageLoad;
 
 // Form element
-window.onload = pageLoad;
-function pageLoad(){
-	var form = document.getElementById("myForm");
-	form.onsubmit = myFormfunction;
-}
+// window.onload = pageLoad;
+// function pageLoad(){
+// 	var form = document.getElementById("myForm");
+// 	form.onsubmit = myFormfunction;
+// }
 
-function myFormfunction(){
-	alert("OK");
-	var x = document.forms["myForm"]["firstname"];
-	alert(x.value);
-}
+// function myFormfunction(){
+// 	alert("OK");
+// 	var x = document.forms["myForm"]["firstname"];
+// 	alert(x.value);
+// }
 
 // URL parameter
 // const queryString = window.location.search;
