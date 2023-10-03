@@ -20,7 +20,7 @@ function timeStart(){
 	
 	var TIMER_TICK = 1000;
 	var min = 0.5;
-	var second = min*60; 
+	var second = min*10; 
 	var x = document.getElementById('clock');
 	console.log(timer);
 	timer = setInterval(timeCount,TIMER_TICK);

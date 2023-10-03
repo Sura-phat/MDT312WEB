@@ -1,38 +1,38 @@
 {
 	"top1":{
-		"brandname": "A.K.O.O Clothing",
+		"brandname": "YerdPao Clothing",
 		"price":"10",
 		"pic":"top1.jpg"},
 	"top2":{
-		"brandname": "B.K.T Clothing",
+		"brandname": "YerdPao Clothing",
 		"price":"100",
 		"pic":"top2.jpg"},
 	"top3":{
-		"brandname": "B.K Clothing",
+		"brandname": "YerdPao Clothing",
 		"price":"1000",
 		"pic":"top3.jpg"},
 	"top4":{
-		"brandname": "A.K.A Clothing",
+		"brandname": "YerdPao Clothing",
 		"price":"10000",
 		"pic":"top4.jpg"},
 	"top5":{
-		"brandname": "B.Z Clothing",
+		"brandname": "YerdPao Clothing",
 		"price":"100000",
 		"pic":"top5.jpg"},
 	"top6":{
-		"brandname": "G.Q Clothing",
+		"brandname": "YerdPao Clothing",
 		"price":"1000000",
 		"pic":"top6.jpg"},
 	"top7":{
-		"brandname": "U.N.Q Clothing",
+		"brandname": "YerdPao Clothing",
 		"price":"10000000",
 		"pic":"top7.jpg"},
 	"top8":{
-		"brandname": "N.A Clothing",
+		"brandname": "YerdPao Clothing",
 		"price":"100000000",
 		"pic":"top8.jpg"},
 	"top9":{
-		"brandname": "T.H Clothing",
+		"brandname": "YerdPao Clothing",
 		"price":"1000000000",
 		"pic":"top9.jpg"}
 }
